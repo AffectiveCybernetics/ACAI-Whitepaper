@@ -1,0 +1,22 @@
+---
+
+## ⚖️ Intellectual Property Notice
+
+The ACAI (Affective Contextual Artificial Intelligence) framework, including but not limited to:
+- the term “Affective Cybernetics”
+- the E–M–C (Emotion–Mind–Context) architectural model
+- the concept of Affective-Controlled Generative Models (ACGM)
+- all system designs, diagrams, methodologies, technical descriptions, and proprietary terminology
+presented in this repository and associated whitepapers
+
+constitute the intellectual property of Artem Teteria.
+
+This publication is provided solely for academic, research, and informational purposes.  
+It does not grant any license or permission for commercial use, reproduction, distribution, modification, rebranding, sublicensing, or creation of derivative works without prior explicit written authorization from the rights holder.
+
+Unauthorized commercial use, misrepresentation, or exploitation of this work may be subject to legal review and appropriate action.
+
+All rights reserved © 2025 Artem Teteria  
+ACAI — Affective Cybernetics Project
+
+---

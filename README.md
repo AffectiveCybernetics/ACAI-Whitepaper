@@ -21,6 +21,18 @@ ACAI — Affective Cybernetics Project
 
 
 
+### 👤 Author & Founder
+Artem Teteria  
+Founder & Chief Architect of ACAI  
+Creator of the Affective Cybernetics Framework
+
+
+
+### 📌 Project Status
+ACAI Whitepaper v1.0 — Officially Published  
+Phase: Research & Early Development  
+Focus: Affective-Cybernetic Control of Large Language Models
+
 
 
 Affective Contextual Artificial Intelligence (ACAI)

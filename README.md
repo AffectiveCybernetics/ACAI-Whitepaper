@@ -92,9 +92,18 @@ Next steps:
 - releasing interaction demos and dynamic models
   
  
-Contact
+### 🔭 Future Direction
 
-Affective Cybernetics Research
+ACAI is evolving toward a fully integrated affective AI platform, combining:
+- real-time emotional feedback systems  
+- adaptive reasoning control for LLMs  
+- embodied affective AI interfaces  
+- scalable ACGM architectures  
 
-Email: affectivecybernetics@gmail.com
- 
+The long-term vision is the creation of emotionally intelligent AI companions that support human development, well-being, and conscious interaction.
+
+
+### 📬 Contact
+
+For collaboration, research inquiries, partnerships or licensing:  
+Email: msb.aboard.ua@gmail.com
